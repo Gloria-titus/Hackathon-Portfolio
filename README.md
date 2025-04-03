@@ -8,28 +8,34 @@ A responsive, modern portfolio website showcasing my work as a Network Engineer 
 
 - **Responsive Design**: Works on all devices (mobile, tablet, desktop)
 - **Modern UI**: Clean, professional aesthetic with interactive elements
-- **Project Showcase**: Highlighted technical projects with code samples
+- **Project Showcase**: Highlighted technical projects.
 - **Professional Experience**: Detailed work history with key achievements
 - **Contact Integration**: Easy ways to connect professionally
 
 ## 🛠️ Technologies Used
 
 - **Frontend**: 
-  HTML5
+  HTML5,
   CSS3
 
 - **Tools**:
-  Git
-  GitHub
+  Git,
+  GitHub,
   VS Code
 
 ## 📂 Project Structure
 
 portfolio/
-├── Portfolio.html   # Main landing page
+├── index.html   # Main landing page
+
 ├── experiences.html # Professional experience
+
 ├── projects.html    # Projects showcase
+
 ├── style.css        # Main stylesheet
+
 ├── images
+
 ├── Resume/CV
+
 └── README.md 
